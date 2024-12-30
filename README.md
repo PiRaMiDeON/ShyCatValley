@@ -1,7 +1,7 @@
 <p align="center">
-      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/1.jpg' width = 220>
-      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/2.jpg' width = 220>
-      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/3.jpg' width = 220>
+      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/1.jpg' height = 440>
+      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/2.jpg' height = 440>
+      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/3.jpg' height = 440>
 </p>
 
 <p align="center">
@@ -18,13 +18,13 @@
 ## Скриншоты игры
 
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/Screenshot1.jpg' height = 440>
+      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/Screenshot1.jpg' width = 880>
 </p>
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/Screenshot2.jpg' height = 440> 
+      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/Screenshot2.jpg' width = 880> 
 </p>
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/Screenshot3.jpg' height = 440>
+      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/Screenshot3.jpg' width = 880>
 </p>
       
 ## Процесс разработки
