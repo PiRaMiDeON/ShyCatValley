@@ -33,11 +33,14 @@
 
 Механики сбора ресурсов и улучшения фермы реализованы с помощью **Zenject**, обеспечивая гибкую архитектуру. Для сенсорного ввода использовался **LeanTouch**, который значительно улучшил взаимодействие с игровым миром.
 
+Для создания анимаций и плавных переходов использовался **DOTween**, что добавило дополнительную визуальную плавность игровому процессу.
+
 ## Используемые технологии
 
 - [**Zenject**](https://assetstore.unity.com/packages/tools/utilities/zenject-157735) - Dependency Injection (DI) для Unity.
 - [**Cinemachine**](https://assetstore.unity.com/packages/essentials/cinemachine-79898) - управление камерой.
 - [**LeanTouch**](https://assetstore.unity.com/packages/tools/input-management/lean-touch-116049) - сенсорный ввод и управление касаниями.
+- [**DOTween**](http://dotween.demigiant.com/) - анимации и плавные переходы для объектов в игре.
 
 ## Разработчик
 
