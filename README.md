@@ -1,7 +1,7 @@
 <p align="center">
-      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/1.jpg' height = 440>
-      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/2.jpg' height = 440>
-      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/3.jpg' height = 440>
+      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/1.jpg' width = 260>
+      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/2.jpg' width = 260>
+      <img src='https://github.com/PiRaMiDeON/ShyCatValley/blob/main/Imgs/3.jpg' width = 260>
 </p>
 
 <p align="center">
